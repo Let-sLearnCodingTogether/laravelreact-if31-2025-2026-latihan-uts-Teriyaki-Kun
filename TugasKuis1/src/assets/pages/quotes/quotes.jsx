@@ -1,4 +1,4 @@
-import http from "@api/apiClient";
+import http from "../../api/apiClient";
 import { useCallback, useEffect, useState } from "react"
 
 export default function QuotePage() {
